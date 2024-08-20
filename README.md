@@ -9,7 +9,7 @@
   </a>
 </div>
 
-<hr>
+
 
 ###
 
@@ -99,4 +99,6 @@ Hi there 👋<br>I'm a web and mobile developer with knowledge in<br>HTML, CSS, 
 </div>
 
 ###
+
+<hr>
 
