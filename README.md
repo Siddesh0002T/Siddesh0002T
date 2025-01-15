@@ -22,9 +22,7 @@ Hi there 👋<br>I'm a web and mobile developer with knowledge in<br>HTML, CSS, 
 
 If you enjoy my work and would like to support me, you can buy me a coffee at [Buy Me a Coffee](https://buymeacoffee.com/Siddhesh0002t). Your support is greatly appreciated!
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@Siddhesh0002T/30-nites-of-code)  
-  ![@Siddhesh0002T #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Siddhesh0002T)
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/Siddhesh0002T) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/Siddhesh0002T/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/Siddhesh0002t/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siddhesh0002t/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@siddeshmore145) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/siddhesh0002t) 
 
